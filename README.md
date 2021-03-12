@@ -1,4 +1,4 @@
-![Header][(https://github.com/samuelchian/samuelchian/blob/main/profile.jpg)](https://www.linkedin.com/in/samuel-chian/){:height="50%" width="50%"}
+<img src="profile.jpg" alt="Header" height="36px" width="36px">
 
 - 👋 Hi, I’m @samuelchian
 - 👀 I’m interested in ...
