@@ -1,5 +1,5 @@
 
-<a href = https://www.linkedin.com/in/samuel-chian/><img src="profile.jpg" alt="Header" height= "20%">
+<a href = https://www.linkedin.com/in/samuel-chian/><img src="profile.jpg" alt="Header" height= "20%" width = "20%">
 
 - 👋 Hi, I’m @samuelchian
 - 👀 I’m interested in ...
