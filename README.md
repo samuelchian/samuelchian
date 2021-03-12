@@ -1,4 +1,4 @@
-[![Header](https://github.com/samuelchian/samuelchian/blob/main/profile.jpg "Header")]{:height="50%" width="50%"}
+[!(https://github.com/samuelchian/samuelchian/blob/main/profile.jpg "Header")]{:height="50%" width="50%"}
 
 - 👋 Hi, I’m @samuelchian
 - 👀 I’m interested in ...
