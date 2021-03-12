@@ -1,4 +1,4 @@
-[![Header](https://github.com/samuelchian/samuelchian/blob/main/profile.jpg "Header")]
+[![Header](https://github.com/samuelchian/samuelchian/blob/main/profile.jpg "Header")](https://www.linkedin.com/in/samuel-chian/)(./pic/profile.jpg =100x20)
 
 - 👋 Hi, I’m @samuelchian
 - 👀 I’m interested in ...
