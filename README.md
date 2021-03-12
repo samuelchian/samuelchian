@@ -1,3 +1,4 @@
+[![Header](https://github.com/samuelchian/samuelchian/blob/main/profile.jpg "Header")]
 
 - 👋 Hi, I’m @samuelchian
 - 👀 I’m interested in ...
