@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Network Science and Community Detection Methods
 
 ## Connect with me
-You can find me on <a href = https://twitter.com/ChianSamuel><img src="https://github.com/samuelchian/samuelchian/blob/main/twit.png" width=100></a>
+You can find me on <a href = https://twitter.com/ChianSamuel><img src="https://github.com/samuelchian/samuelchian/blob/main/twit.png" width=20></a>
 
 
 [![Twitter][1.2]][1], [![LinkedIn][2.2]][2],[![Facebook][3.2]][3], or [![Instagram][4.2]][4]
