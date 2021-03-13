@@ -16,8 +16,8 @@
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chiansamuel&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiansamuel&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelchian&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelchian&theme=tokyonight)
 
 <!---
 samuelchian/samuelchian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
