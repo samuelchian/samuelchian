@@ -1,10 +1,12 @@
 
 <a href = https://www.linkedin.com/in/samuel-chian/><img src="profile.jpg" alt="Header" height= "20%" width = "20%"></a>
 
-- 👋 Hi, I’m @samuelchian
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+- 👋 Hi, I’m @samuelchian, an undergraduate at Northwestern University studying Applied Mathematics and Statistics. I hope to store all my personal and research projects here.
+- 👀 I’m interested in solving computational problems, and anything related to making inferences from data. Aside from academics, talk to me about anything fitness!
+- 🌱 I’m currently learning Network Science and Community Detection Methods
+
+## Connect with me
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
