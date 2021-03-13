@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Network Science and Community Detection Methods
 
 ## Connect with me
-<a href = https://twitter.com/ChianSamuel><img src="https://github.com/samuelchian/samuelchian/blob/main/twit.png" width=40></a><a href = https://www.linkedin.com/in/samuel-chian><img src="https://github.com/samuelchian/samuelchian/blob/main/linkedin.png" width=40></a><a href = https://www.facebook.com/samuelhgchian/><img src="https://github.com/samuelchian/samuelchian/blob/main/facebook.png" width=40></a>or <a href = https://www.facebook.com/samuelhgchian/><img src="https://github.com/samuelchian/samuelchian/blob/main/instagram.png" width=40></a>
+<a href = https://twitter.com/ChianSamuel><img src="https://github.com/samuelchian/samuelchian/blob/main/twit.png" width=40></a><a href = https://www.linkedin.com/in/samuel-chian><img src="https://github.com/samuelchian/samuelchian/blob/main/linkedin.png" width=35></a><a href = https://www.facebook.com/samuelhgchian/><img src="https://github.com/samuelchian/samuelchian/blob/main/facebook.png" width=35></a><a href = https://www.facebook.com/samuelhgchian/><img src="https://github.com/samuelchian/samuelchian/blob/main/instagram.png" width=35></a>
 
 
 <!---
