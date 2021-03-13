@@ -1,5 +1,5 @@
 
-<p class="aligncenter">
+<p style="text-align:center;">
   <a href = https://www.linkedin.com/in/samuel-chian/><img src="profile.jpg" alt="Header" height= "20%" width = "20%"></a>
   </p>
 
