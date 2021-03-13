@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @samuelchian, an undergraduate at Northwestern University studying Applied Mathematics and Statistics. I hope to store all my personal and research projects here.
+# Hi, I'm Sam
+- 👋 I'm an undergraduate at Northwestern University studying Applied Mathematics and Statistics. I hope to store all my personal and research projects here.
 - 👀 I’m interested in solving computational problems, and anything related to making inferences from data. Aside from academics, talk to me about anything fitness!
 - 🌱 I’m currently learning Network Science and Community Detection Methods
 
 ## Connect with me
-You can find me on <a href = https://twitter.com/ChianSamuel><img src="https://github.com/samuelchian/samuelchian/blob/main/twit.png" width=40></a>, <a href = https://www.linkedin.com/in/samuel-chian><img src="https://github.com/samuelchian/samuelchian/blob/main/linkedin.png" width=40></a>, <a href = https://www.facebook.com/samuelhgchian/><img src="https://github.com/samuelchian/samuelchian/blob/main/facebook.png" width=40></a>, or <a href = https://www.facebook.com/samuelhgchian/><img src="https://github.com/samuelchian/samuelchian/blob/main/instagram.png" width=40></a>
+<a href = https://twitter.com/ChianSamuel><img src="https://github.com/samuelchian/samuelchian/blob/main/twit.png" width=40></a><a href = https://www.linkedin.com/in/samuel-chian><img src="https://github.com/samuelchian/samuelchian/blob/main/linkedin.png" width=40></a><a href = https://www.facebook.com/samuelhgchian/><img src="https://github.com/samuelchian/samuelchian/blob/main/facebook.png" width=40></a>or <a href = https://www.facebook.com/samuelhgchian/><img src="https://github.com/samuelchian/samuelchian/blob/main/instagram.png" width=40></a>
 
 
 <!---
