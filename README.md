@@ -1,5 +1,7 @@
 
-<a href = https://www.linkedin.com/in/samuel-chian/><img src="profile.jpg" alt="Header" height= "20%" width = "20%"></a>
+<p class="aligncenter">
+  <a href = https://www.linkedin.com/in/samuel-chian/><img src="profile.jpg" alt="Header" height= "20%" width = "20%"></a>
+  </p>
 
 - 👋 Hi, I’m @samuelchian, an undergraduate at Northwestern University studying Applied Mathematics and Statistics. I hope to store all my personal and research projects here.
 - 👀 I’m interested in solving computational problems, and anything related to making inferences from data. Aside from academics, talk to me about anything fitness!
