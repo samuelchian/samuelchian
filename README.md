@@ -1,5 +1,5 @@
 # Hi, I'm Sam
-- 👋 I'm an undergraduate at Northwestern University studying Applied Mathematics and Statistics. I hope to store all my personal and research projects here.
+- 👋 I'm a graduate student at Stanford University studying Computational and Mathematical Engineering. I hope to store all my personal and research projects here.
 - 👀 I’m interested in solving computational problems, anything related to making inferences from data, and all things AI. Aside from academics, talk to me about anything fitness!
 - 🌱 I’m currently learning about Network Science and Community Detection Methods.
 
